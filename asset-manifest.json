@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-15febrero/static/css/main.41b91f95.css",
+    "main.js": "/buscador-15febrero/static/js/main.bce628c0.js",
+    "index.html": "/buscador-15febrero/index.html",
+    "main.41b91f95.css.map": "/buscador-15febrero/static/css/main.41b91f95.css.map",
+    "main.bce628c0.js.map": "/buscador-15febrero/static/js/main.bce628c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b91f95.css",
+    "static/js/main.bce628c0.js"
+  ]
+}
